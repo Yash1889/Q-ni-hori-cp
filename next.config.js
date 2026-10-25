@@ -14,8 +14,6 @@ const nextConfig = {
         optimizePackageImports: ["lucide-react", "framer-motion"],
     },
 
-    // Enable SWC minification for faster builds
-    swcMinify: true,
 };
 
 export default nextConfig;
